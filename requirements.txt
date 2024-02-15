@@ -4,5 +4,5 @@ seaborn
 streamlit 
 tensorflow
 keras 
-sklearn
+scikit-learn
 matplotlib
